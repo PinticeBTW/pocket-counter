@@ -1,0 +1,10 @@
+{
+  "manifest_version": 1,
+  "name": "Pocket Counter",
+  "description": "Um contador simples com +1, reposição a zero e estado guardado neste dispositivo.",
+  "version": "1.0.0",
+  "entry": "./index.html",
+  "permissions": [
+    "storage"
+  ]
+}
